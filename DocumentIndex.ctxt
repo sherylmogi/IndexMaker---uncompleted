@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DocumentIndex()
+comment1.params=word\ num
+comment1.target=void\ addWord(java.lang.String,\ int)
+numComments=2
